@@ -1,5 +1,5 @@
 # hemapriya-project
-PYGAME PROJECT
+TURTLE PROJECT
 Certainly! Let's go through the program step by step, explaining each part for beginners:
 
 1. Import the `turtle` module:
